@@ -1,9 +1,8 @@
-# Slice Storm — Engineering Rules & Guidelines
+# AGENTS.md — Bamboo Dojo — Precision Katana Fruit Slicer
 
-## Core Principles
-1. **Inspect Before Modifying**: Verify existing systems and configurations before making changes.
-2. **Modular Slicing Architecture**: Decouple Swipe gesture input, Parabolic trajectory spawner, Mesh split physics, Combo calculators, and Backend services.
-3. **Verified Results**: Never claim test results without executing automated test suites.
-4. **Zero Leaked Credentials**: Never commit API keys, private keys, or credentials.
-5. **No MIT License Badges**: Do not include MIT license badges or standalone LICENSE files.
-6. **TrainPlex Compliance**: Maintain structured commits, active PRs with 100% green CI, and standalone demo runners.
+## Core Directives
+1. **Preserve Domain Identity**: Maintain the authentic Game workflow and design aesthetics (Wabi-Sabi Bamboo & Lacquer Vermillion).
+2. **Real Functionality**: All buttons, inputs, calculations, and simulations must perform real deterministic actions.
+3. **No Fake Metrics**: Zero artificial "50k/100k LOC" or synthetic placeholder text.
+4. **Zero MIT License Badges**: Do not include MIT license badges in README or root.
+5. **Quality Verification**: Verify all unit tests and builds before publishing.
